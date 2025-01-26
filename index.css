@@ -1,0 +1,167 @@
+
+.header {
+ background-color: black;
+ display: inline;
+ text-align: center;
+ color:aliceblue;
+ float:left;
+ width:100%;
+}
+.navbar li{
+    display: inline;
+    padding: 0em 3em 0em 3em;
+}
+.herosection{
+    float:  left;
+    width: 100% ;
+    color:  white;
+    height:659px;
+    text-align: center;
+    background-image: url("https://th.bing.com/th/id/OIP.fBe1gguUHhEyZuradl-J6QAAAA?rs=1&pid=ImgDetMain");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+.herosection h2{
+    
+        font-family: "Rochester", cursive;
+        font-weight: 400;
+        font-style: normal;  
+        font-size: 600%; 
+        margin-top: 17%;     
+}
+.herosection p{
+    margin-top: 17%;
+    font-size: 200%;
+}
+.ourspl p{
+    text-align: center;
+    font-size: 200%;
+ 
+}
+.herosection{
+    margin-bottom: 65px; /* Space below the image */
+}
+
+.column h3{
+    text-align: center;
+    width: 70.3%;
+}
+.column p{
+    text-align: center;
+    width: 70.3%;
+    height: 400px;
+}
+.row {
+    display: flex;
+  }
+  .story {
+    display: flex;
+    align-items: center; /* This will vertically center align the items in the container */
+  
+  }
+  
+  .ourstory img {
+    width: 100%; /* Adjust the width as needed */
+  }
+  
+  .ourstory  h2{
+    width: 100%; /* Adjust the width as needed */
+    text-align: center;
+    padding-bottom: 3em;
+  }
+  .ourstory p{
+    width: 100%;
+    padding-left: 5em;
+    padding-bottom: 5em;
+  }
+.h{
+    display: flex;   
+}
+.hh{
+    padding-right: 20em;
+    padding-left: 13em;
+}
+.hh h2{
+    text-align: center;
+}
+.hhh h2{
+    text-align: center;
+}
+.menu{
+    text-align: center;
+
+}
+.a{
+    display: flex;   
+}
+.aa{
+    padding-right: 20em;
+    padding-left: 13em;
+}
+.aa h2{
+    text-align: center;
+}
+.aaa h2{
+    text-align: center;
+}
+.n{
+    display: flex ;
+}
+.nn img{
+    width: 120%;
+}
+.chef {
+    display: flex;
+    align-items: center; /* This will vertically center align the items in the container */
+  
+}
+  
+.ourimg img {
+    width: 100%; /* Adjust the width as needed */
+  }
+  
+.ourchef  h2{
+    width: 100%; /* Adjust the width as needed */
+    text-align: center;
+    padding-bottom: 1em;
+    padding-top: 2em;
+    padding-left: 3em;
+  }
+  .ourchef p{
+    width: 100%;
+    padding-left: 20em;
+    padding-bottom: 5em;
+  }
+  .ourchef img{
+    padding-left:10em ;
+  }
+  .v{
+    display: flex;
+    
+    color: aliceblue;
+  }
+  .vv{
+    text-align: center;
+    padding-left: 16.7em;
+    padding-top: 5em;
+    padding-bottom: 7em;
+    
+  }
+.vv p{
+  text-align: center;
+}
+.e{
+  text-align: center;
+  color: aliceblue;
+}
+.s{
+  background-color:black;
+}
+.footer{
+  text-align: center;
+  background-color: black;
+}
+
+
+
+
